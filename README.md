@@ -12,6 +12,9 @@ Actual prices:    [4060000 6650000 3710000 6440000 2800000 4900000 5250000 45430
 
 
 Mean Squared Error: 1730334929308.72
+
 R² Score: 0.66
+
 Random Forest MSE: 1952191160990.22
+
 Random Forest R²: 0.61
