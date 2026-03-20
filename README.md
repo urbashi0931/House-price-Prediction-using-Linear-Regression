@@ -1,4 +1,4 @@
-This project predicts house prices on a kaggle dataset of housing. At the end a linear regression model and random forest regression model is used to check the better fit. 
+This project predicts house prices on a kaggle dataset of housing ( total 546 records). At the end a linear regression model and random forest regression model is used to check the better fit. 
 
 In this project the Linear Regression performed better than the Random Forest
 
